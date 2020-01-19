@@ -27,7 +27,7 @@ def max_gap(arr: list):
         return 0
     min_values = [100] * (len(arr) + 1)
     max_values = [0] * (len(arr) + 1)
-    have_num = [0] * (len(arr) + 1)
+    have_num = [False] * (len(arr) + 1)
     for temp in range(len(arr)):
         bid = bucket(arr[temp], len(arr), min_value, max_value)
         have_num[bid] = True
