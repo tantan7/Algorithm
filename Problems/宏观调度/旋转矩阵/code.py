@@ -22,10 +22,7 @@ def rotate_edge(input_matrix, left_row, left_col, right_row, right_co1):
 
 
 def rotate_matrix(input_matrix):
-    left_row = 0
-    left_col = 0
-    right_row = len(input_matrix) - 1
-    right_col = len(input_matrix[0]) - 1
+    left_row, left_col, right_row, right_col = 0, 0, len(input_matrix) - 1, len(input_matrix[0]) - 1
     while left_row <= right_row and left_col <= right_col:
         rotate_edge(input_matrix, left_row, left_col, right_row, right_col)
         left_row += 1
