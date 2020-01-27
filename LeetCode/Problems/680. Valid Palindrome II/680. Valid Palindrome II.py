@@ -14,13 +14,14 @@
 
 
 class Solution:
-    def validPalindrome(self, s):
+    @staticmethod
+    def validPalindrome(s):
         if s == s[::-1]:
             return True
         for i in range(int(len(s) / 2)):
             if s[i] != s[-i - 1]:
-                return s[i + 1:-i if -i else None] == s[i + 1:-i if -i else None][::-1] or s[i:-i - 1] == s[i:-i - 1][::-1]
-
+                return s[i + 1:-i if -i else None] == s[i + 1:-i if -i else None][::-1] \
+                       or s[i:-i - 1] == s[i:-i - 1][:: -1]
 
 
 test = Solution()
