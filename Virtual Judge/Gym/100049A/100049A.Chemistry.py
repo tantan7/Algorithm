@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time     : 2020/1/28 13:13
-# @File     : Problem A Chemistry.py
+# @File     : 100049A.Chemistry.py
 # ----------------------------------------------
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆ 
 # >>> Author    : Alex
