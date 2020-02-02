@@ -11,17 +11,18 @@
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆
 import sys
 
-for item in range(int(input())):
-    length, target = map(int, input().split())
-    sequence = list(map(int, input().split()))
-    left, right, ans = 0, 0, sys.maxsize
-    sum_num = sequence[left]
-    while right < length:
-        if sum_num < target:
-            right += 1
+while True:
+    try:
+        length, target = map(int, input().split())
+        sequence = list(map(int, input().split()))
+        left, sum_num, ans = 0, 0, sys.maxsize
+        for right in range(length):
             sum_num += sequence[right]
-        else:
-            ans = min(right - left + 1, ans)
-            sum_num -= sequence[left]
-            left += 1
-    print(ans if ans != sys.maxsize else 0)
+            while sum_num > target:
+                ans = min(right - left + 1, ans)
+
+                sum_num -= sequence[left]
+                left += 1
+        print(ans if ans != sys.maxsize else 0)
+    except EOFError:
+        break

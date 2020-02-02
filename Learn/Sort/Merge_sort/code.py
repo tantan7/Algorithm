@@ -16,21 +16,21 @@ import random
 
 
 def merge_sort(arr: list):
-    mergesort(arr, 0, len(arr) - 1)
+    merge__sort(arr, 0, len(arr) - 1)
 
 
-def mergesort(arr: list, left: int, right: int):
+def merge__sort(arr: list, left: int, right: int):
     if left == right:
         return
     mid = left + ((right - left) >> 1)
-    mergesort(arr, left, mid)
-    mergesort(arr, mid + 1, right)
+    merge__sort(arr, left, mid)
+    merge__sort(arr, mid + 1, right)
     merge(arr, left, mid, right)
 
 
 def merge(arr: list, left: int, mid: int, right: int):
     help_list = []
-    i, p1, p2 = 0, left, mid + 1
+    temp, p1, p2 = 0, left, mid + 1
 
     while p1 <= mid and p2 <= right:
         if arr[p1] < arr[p2]:
@@ -52,22 +52,10 @@ def merge(arr: list, left: int, mid: int, right: int):
         arr[left + j] = help_list[j]
 
 
-def generate_random_test(max_size: int, max_value: int):
-    result = []
-    size = random.randint(0, max_size + 1)
-    for i in range(size):
-        result.append((int(max_value + 1) * random.random()) - int(max_value * random.random()))
-    return result
-
-
 if __name__ == '__main__':
-    test_num = 100
-    max_size = 100
-    max_value = 100
     flag = True
-
-    for i in range(test_num):
-        list1 = generate_random_test(max_size, max_value)
+    for i in range(100):
+        list1 = [random.randint(0, 100) for _ in range(random.randint(0, 100))]
         list2 = copy.deepcopy(list1)
         list3 = copy.deepcopy(list1)
         merge_sort(list2)
