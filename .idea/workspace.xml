@@ -53,7 +53,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -281,10 +283,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1580203314848" />
-    <state x="163" y="2" key="CommitChangelistDialog2" timestamp="1580615518622">
+    <state x="163" y="2" key="CommitChangelistDialog2" timestamp="1581000631042">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="163" y="2" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1580615518622" />
+    <state x="163" y="2" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581000631042" />
     <state x="372" y="2" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580122268629" />
     <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1580807102851">
       <screen x="0" y="0" width="1536" height="824" />
