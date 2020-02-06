@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9b56a21-dd90-4efc-b950-176828531144" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Codeforces/Contests/Codeforces Round #616/(Div. 2)/A.Even But Not Even/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/Contests/Codeforces Round #616/(Div. 2)/A.Even But Not Even/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Alex &lt;alex18812649207@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="JupyterTrust" id="2c06357a-3bee-4795-ad08-73c733f8572f" />
+  <component name="ProjectId" id="1Wxvawnt5oBf5zUwVXLdAfmhK5z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Algorithm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Algorithm\Learn\数据结构" />
+      <recent name="G:\Algorithm\Learn\Algorithm" />
+      <recent name="G:\Algorithm\Learn\牛客\基础班" />
+      <recent name="G:\Algorithm\Virtual Judge\Gym\100049A" />
+      <recent name="G:\Algorithm\Virtual Judge\Gym\100049B" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.1.XOR_swap">
+    <configuration name="1.XOR_swap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/Bit_Operation/XOR_Operation" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Algorithm/Bit_Operation/XOR_Operation/1.XOR_swap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3061.Subsequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Virtual Judge/POJ/3061.Subsequence" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Virtual Judge/POJ/3061.Subsequence/3061.Subsequence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/数据结构/Tree/Trie_Tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/数据结构/Tree/Trie_Tree/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codeforces/Contests/Codeforces Round #616/(Div. 2)/A.Even But Not Even" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeforces/Contests/Codeforces Round #616/(Div. 2)/A.Even But Not Even/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Union_Find_Set/岛问题" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Union_Find_Set/岛问题/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.3061.Subsequence" />
+      <item itemvalue="Python.code" />
+      <item itemvalue="Python.code (1)" />
+      <item itemvalue="Python.code (2)" />
+      <item itemvalue="Python.1.XOR_swap" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.1.XOR_swap" />
+        <item itemvalue="Python.code (2)" />
+        <item itemvalue="Python.code (1)" />
+        <item itemvalue="Python.code" />
+        <item itemvalue="Python.3061.Subsequence" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9b56a21-dd90-4efc-b950-176828531144" name="Default Changelist" comment="" />
+      <created>1580104127225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580104127225</updated>
+      <workItem from="1580104128719" duration="15958000" />
+      <workItem from="1580188248148" duration="18016000" />
+      <workItem from="1580606326310" duration="9983000" />
+      <workItem from="1580636009958" duration="22000" />
+      <workItem from="1580651686735" duration="10203000" />
+      <workItem from="1580806993631" duration="230000" />
+      <workItem from="1580901770147" duration="61000" />
+      <workItem from="1581000544444" duration="41000" />
+    </task>
+    <task id="LOCAL-00001" summary="2020-1-27">
+      <created>1580122271772</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580122271772</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2020-1-28">
+      <created>1580200393985</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580200393985</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2020-1-28">
+      <created>1580204050342</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580204050342</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2020-2-2">
+      <created>1580606375928</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580606375928</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2020-2-2">
+      <created>1580610900471</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580610900471</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2020-2-2">
+      <created>1580615519902</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580615519902</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="2020-1-27" />
+    <MESSAGE value="2020-1-28" />
+    <MESSAGE value="2020-2-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-2-2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="25" key="#1.XOR_swap" timestamp="1581000561787">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="25" key="#1.XOR_swap/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581000561787" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580203314848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1580203314848" />
+    <state x="163" y="2" key="CommitChangelistDialog2" timestamp="1580615518622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="163" y="2" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1580615518622" />
+    <state x="372" y="2" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580122268629" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1580807102851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1580807102851" />
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580110466154" />
+    <state width="1493" height="322" key="GridCell.Tab.0.bottom" timestamp="1581000602660">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="322" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581000602660" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580130079862" />
+    <state width="1493" height="322" key="GridCell.Tab.0.center" timestamp="1581000602660">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="322" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581000602660" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580130079862" />
+    <state width="1493" height="322" key="GridCell.Tab.0.left" timestamp="1581000602660">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="322" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581000602660" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580130079862" />
+    <state width="1493" height="322" key="GridCell.Tab.0.right" timestamp="1581000602660">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="322" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581000602660" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580130079862" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1580616592994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1580616592994" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580130079862" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1580616592994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1580616592994" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580130079862" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1580616592994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1580616592994" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580130079862" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1580616592994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1580616592994" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580130079862" />
+    <state x="2089" y="67" key="SettingsEditor" timestamp="1581000584087">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="2089" y="67" key="SettingsEditor/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581000584087" />
+    <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580110512404" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1580615525184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1580615525184" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580122291493" />
+    <state x="454" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1580636011537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="454" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1580636011537" />
+    <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580615489242">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1580615489242" />
+    <state x="1920" y="0" width="1084" height="810" maximized="true" key="dock-window-1" timestamp="1580608973045">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="1920" y="0" width="1084" height="810" maximized="true" key="dock-window-1/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1580608973045" />
+    <state x="1920" y="0" width="1084" height="810" maximized="true" key="dock-window-2" timestamp="1580612946084">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="1920" y="0" width="1084" height="810" maximized="true" key="dock-window-2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1580612946084" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580615523307">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1580615523307" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580122288072" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="ans" language="Python" />
+        <watch expression="left" language="Python" />
+        <watch expression="right" language="Python" />
+        <watch expression="sum_num" language="Python" />
+        <watch expression="target" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Algorithm$1_XOR_swap.coverage" NAME="1.XOR_swap Coverage Results" MODIFIED="1581000600626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Bit_Operation/XOR_Operation" />
+  </component>
+</project>
