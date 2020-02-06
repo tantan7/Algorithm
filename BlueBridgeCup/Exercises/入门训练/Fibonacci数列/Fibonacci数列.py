@@ -6,4 +6,5 @@ def fibo(n):
         fn[0], fn[1] = fn[1], (fn[0] + fn[1]) % 10007
     return fn[1]
 
+
 print(fibo(int(input())))
