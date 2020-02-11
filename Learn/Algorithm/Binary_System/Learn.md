@@ -182,7 +182,7 @@ for i in range(len(num_n)):
 print("N number =", "".join(map(str, num_n[::-1])))
 ```
 
-# 福利：Python进制转换内置函数
+# Python进制转换内置函数
 
 
 |	|2进制|	8进制|	10进制|	16进制|

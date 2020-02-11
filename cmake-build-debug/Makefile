@@ -122,32 +122,32 @@ Algorithm/fast:
 	$(MAKE) -f CMakeFiles\Algorithm.dir\build.make CMakeFiles/Algorithm.dir/build
 .PHONY : Algorithm/fast
 
-main.obj: main.cpp.obj
+BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.obj: BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.cpp.obj
 
-.PHONY : main.obj
+.PHONY : BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.obj
 
 # target to build an object file
-main.cpp.obj:
-	$(MAKE) -f CMakeFiles\Algorithm.dir\build.make CMakeFiles/Algorithm.dir/main.cpp.obj
-.PHONY : main.cpp.obj
+BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.cpp.obj:
+	$(MAKE) -f CMakeFiles\Algorithm.dir\build.make CMakeFiles/Algorithm.dir/BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.cpp.obj
+.PHONY : BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.cpp.obj
 
-main.i: main.cpp.i
+BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.i: BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.cpp.i
 
-.PHONY : main.i
+.PHONY : BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles\Algorithm.dir\build.make CMakeFiles/Algorithm.dir/main.cpp.i
-.PHONY : main.cpp.i
+BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.cpp.i:
+	$(MAKE) -f CMakeFiles\Algorithm.dir\build.make CMakeFiles/Algorithm.dir/BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.cpp.i
+.PHONY : BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.cpp.i
 
-main.s: main.cpp.s
+BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.s: BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.cpp.s
 
-.PHONY : main.s
+.PHONY : BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles\Algorithm.dir\build.make CMakeFiles/Algorithm.dir/main.cpp.s
-.PHONY : main.cpp.s
+BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.cpp.s:
+	$(MAKE) -f CMakeFiles\Algorithm.dir\build.make CMakeFiles/Algorithm.dir/BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.cpp.s
+.PHONY : BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... Algorithm
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.obj
+	@echo ... BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.i
+	@echo ... BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.s
 .PHONY : help
 
 

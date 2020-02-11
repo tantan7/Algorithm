@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="G:/Algorithm/main.cpp">
+		<Unit filename="G:/Algorithm/BlueBridgeCup/Subject/2017/National _C_C++_B/1/code.cpp">
 			<Option target="Algorithm"/>
 		</Unit>
 		<Unit filename="G:/Algorithm/CMakeLists.txt">
