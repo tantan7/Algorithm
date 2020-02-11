@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="Algorithm" targetName="Algorithm" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -10,7 +12,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9b56a21-dd90-4efc-b950-176828531144" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Exercises/入门训练/BEGIN-2 序列求和/BEGIN-2 序列求和.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Exercises/基础练习/BASIC-10 十进制转十六进制/BASIC-10 十进制转十六进制.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Exercises/基础练习/BASIC-10 十进制转十六进制/BASIC-10 十进制转十六进制.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Exercises/基础练习/BASIC-4 数列特征/BASIC-4 数列特征.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Exercises/基础练习/BASIC-5 查找整数/BASIC-5 查找整数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Exercises/基础练习/BASIC-6 杨辉三角形/BASIC-6 杨辉三角形.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Exercises/基础练习/BASIC-7 特殊的数字/BASIC-7 特殊的数字.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Exercises/基础练习/BASIC-8 回文数/BASIC-8 回文数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Exercises/基础练习/BASIC-9 特殊回文数/BASIC-9 特殊回文数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Exercises/算法训练/ALGO-1 区间k大数查询/ALGO-1 区间k大数查询.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Binary_System/10_to_2/10_to_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Binary_System/10_to_any/10_to_any.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Binary_System/2_to_10/2_to_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Binary_System/Learn.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Binary_System/M_to_N/M_to_N.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Binary_System/any_to_10/any_to_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Algorithm.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Algorithm.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Exercises/入门训练/序列求和/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Exercises/入门训练/序列求和/序列求和.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Exercises/入门训练/BEGIN-2 序列求和/BEGIN-2 序列求和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,15 +79,11 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Learn/Algorithm/Binary_System" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\Algorithm" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\Algorithm\Learn\数据结构" />
       <recent name="G:\Algorithm\Learn\Algorithm" />
@@ -68,22 +91,32 @@
       <recent name="G:\Algorithm\Virtual Judge\Gym\100049A" />
       <recent name="G:\Algorithm\Virtual Judge\Gym\100049B" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Algorithm\Learn\Algorithm\Binary_System" />
+      <recent name="G:\Algorithm" />
+      <recent name="G:\Algorithm\BlueBridgeCup\Exercises\基础练习\BASIC-10 十进制转十六进制" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.圆的面积">
-    <configuration name="圆的面积" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.M_to_N">
+    <configuration name="Algorithm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="Algorithm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithm" RUN_TARGET_NAME="Algorithm">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="10_to_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BlueBridgeCup/Exercises/入门训练/圆的面积" />
+      <option name="SDK_HOME" value="D:\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/Binary_System/10_to_2" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BlueBridgeCup/Exercises/入门训练/圆的面积/圆的面积.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Algorithm/Binary_System/10_to_2/10_to_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,20 +125,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1.XOR_swap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10_to_any" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/Bit_Operation/XOR_Operation" />
+      <option name="SDK_HOME" value="D:\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/Binary_System/10_to_any" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Algorithm/Bit_Operation/XOR_Operation/1.XOR_swap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Algorithm/Binary_System/10_to_any/10_to_any.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,20 +147,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2_to_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/数据结构/Tree/Trie_Tree" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="D:\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/Binary_System/2_to_10" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/数据结构/Tree/Trie_Tree/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Algorithm/Binary_System/2_to_10/2_to_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,20 +169,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="code (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="M_to_N" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codeforces/Contests/Codeforces Round #616/(Div. 2)/A.Even But Not Even" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="D:\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/Binary_System/M_to_N" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeforces/Contests/Codeforces Round #616/(Div. 2)/A.Even But Not Even/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Algorithm/Binary_System/M_to_N/M_to_N.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,20 +191,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="any_to_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Union_Find_Set/岛问题" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="D:\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/Binary_System/any_to_10" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Union_Find_Set/岛问题/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Algorithm/Binary_System/any_to_10/any_to_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,19 +214,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.code" />
-      <item itemvalue="Python.code (1)" />
-      <item itemvalue="Python.code (2)" />
-      <item itemvalue="Python.1.XOR_swap" />
-      <item itemvalue="Python.圆的面积" />
+      <item itemvalue="Python.10_to_2" />
+      <item itemvalue="Python.2_to_10" />
+      <item itemvalue="Python.10_to_any" />
+      <item itemvalue="Python.any_to_10" />
+      <item itemvalue="Python.M_to_N" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.圆的面积" />
-        <item itemvalue="Python.1.XOR_swap" />
-        <item itemvalue="Python.code (2)" />
-        <item itemvalue="Python.code (1)" />
-        <item itemvalue="Python.code" />
+        <item itemvalue="Python.M_to_N" />
+        <item itemvalue="Python.any_to_10" />
+        <item itemvalue="Python.10_to_any" />
+        <item itemvalue="Python.2_to_10" />
+        <item itemvalue="Python.10_to_2" />
       </list>
     </recent_temporary>
   </component>
@@ -215,6 +248,9 @@
       <workItem from="1580806993631" duration="230000" />
       <workItem from="1580901770147" duration="61000" />
       <workItem from="1581000544444" duration="3424000" />
+      <workItem from="1581303356210" duration="399000" />
+      <workItem from="1581388493025" duration="485000" />
+      <workItem from="1581388998163" duration="7901000" />
     </task>
     <task id="LOCAL-00001" summary="2020-1-27">
       <created>1580122271772</created>
@@ -298,39 +334,71 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="477" y="25" key="#1.XOR_swap/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581000561787" />
+    <state x="477" y="25" key="#10_to_2" timestamp="1581391104537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="25" key="#10_to_2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581391104537" />
+    <state x="477" y="25" key="#10_to_any" timestamp="1581393395961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="25" key="#10_to_any/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581393395961" />
+    <state x="477" y="25" key="#2_to_10" timestamp="1581392633761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="25" key="#2_to_10/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581392633761" />
+    <state x="477" y="25" key="#Fibonacci数列" timestamp="1581389045128">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="25" key="#Fibonacci数列/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581389045128" />
+    <state x="477" y="25" key="#M_to_N" timestamp="1581396598986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="25" key="#M_to_N/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581396598986" />
+    <state x="361" y="71" key="#Notifications" timestamp="1581389009265">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Notifications/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581389009265" />
+    <state x="477" y="25" key="#any_to_10" timestamp="1581395218056">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="25" key="#any_to_10/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581395218056" />
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580203314848">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1580203314848" />
+    <state x="477" y="14" key="#圆的面积" timestamp="1581388737449">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="14" key="#圆的面积/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581388737449" />
     <state x="163" y="2" key="CommitChangelistDialog2" timestamp="1581001435497">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="163" y="2" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581001435497" />
     <state x="372" y="2" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580122268629" />
-    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1580807102851">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1581388628393">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1580807102851" />
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581388628393" />
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580110466154" />
-    <state width="1493" height="230" key="GridCell.Tab.0.bottom" timestamp="1581040072079">
+    <state width="1493" height="230" key="GridCell.Tab.0.bottom" timestamp="1581396736286">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581040072079" />
+    <state width="1493" height="230" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581396736286" />
     <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580130079862" />
-    <state width="1493" height="230" key="GridCell.Tab.0.center" timestamp="1581040072079">
+    <state width="1493" height="230" key="GridCell.Tab.0.center" timestamp="1581396736286">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581040072079" />
+    <state width="1493" height="230" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581396736286" />
     <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580130079862" />
-    <state width="1493" height="230" key="GridCell.Tab.0.left" timestamp="1581040072079">
+    <state width="1493" height="230" key="GridCell.Tab.0.left" timestamp="1581396736286">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581040072079" />
+    <state width="1493" height="230" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581396736286" />
     <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580130079862" />
-    <state width="1493" height="230" key="GridCell.Tab.0.right" timestamp="1581040072079">
+    <state width="1493" height="230" key="GridCell.Tab.0.right" timestamp="1581396736286">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581040072079" />
+    <state width="1493" height="230" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581396736286" />
     <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580130079862" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1580616592994">
       <screen x="0" y="0" width="1536" height="824" />
@@ -366,22 +434,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="454" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1580636011537" />
-    <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580615489242">
+    <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581396904599">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1580615489242" />
-    <state x="1920" y="0" width="1084" height="810" maximized="true" key="dock-window-1" timestamp="1580608973045">
+    <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581396904599" />
+    <state x="1867" y="107" width="1139" height="811" maximized="true" key="dock-window-1" timestamp="1581396418891">
       <screen x="1920" y="0" width="1440" height="860" />
     </state>
-    <state x="1920" y="0" width="1084" height="810" maximized="true" key="dock-window-1/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1580608973045" />
+    <state x="1867" y="107" width="1139" height="811" maximized="true" key="dock-window-1/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581396418891" />
     <state x="1920" y="0" width="1084" height="810" maximized="true" key="dock-window-2" timestamp="1580612946084">
       <screen x="1920" y="0" width="1440" height="860" />
     </state>
     <state x="1920" y="0" width="1084" height="810" maximized="true" key="dock-window-2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1580612946084" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581001437351">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581393255843">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581001437351" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581393255843" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580122288072" />
   </component>
   <component name="XDebuggerManager">
@@ -396,7 +464,11 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Algorithm$1_XOR_swap.coverage" NAME="1.XOR_swap Coverage Results" MODIFIED="1581000600626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Bit_Operation/XOR_Operation" />
-    <SUITE FILE_PATH="coverage/Algorithm$.coverage" NAME="圆的面积 Coverage Results" MODIFIED="1581037319630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Exercises/入门训练/圆的面积" />
+    <SUITE FILE_PATH="coverage/Algorithm$any_to_10.coverage" NAME="any_to_10 Coverage Results" MODIFIED="1581395738120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Binary_System/any_to_10" />
+    <SUITE FILE_PATH="coverage/Algorithm$10_to_any.coverage" NAME="10_to_any Coverage Results" MODIFIED="1581394241840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Binary_System/10_to_any" />
+    <SUITE FILE_PATH="coverage/Algorithm$Fibonacci.coverage" NAME="Fibonacci数列 Coverage Results" MODIFIED="1581389045156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Exercises/入门训练/Fibonacci数列" />
+    <SUITE FILE_PATH="coverage/Algorithm$10_to_2.coverage" NAME="10_to_2 Coverage Results" MODIFIED="1581391527609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Binary_System/10_to_2" />
+    <SUITE FILE_PATH="coverage/Algorithm$2_to_10.coverage" NAME="2_to_10 Coverage Results" MODIFIED="1581392814539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Binary_System/2_to_10" />
+    <SUITE FILE_PATH="coverage/Algorithm$M_to_N.coverage" NAME="M_to_N Coverage Results" MODIFIED="1581396736278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Binary_System/M_to_N" />
   </component>
 </project>
